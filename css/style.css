@@ -138,7 +138,7 @@ img {
  /* Mobile */
  @media  screen and (max-width:480px){
     .container{
-        width: 480px;
+        width: 100%;
     }
     .row{
         flex-direction: column;
@@ -153,7 +153,52 @@ img {
         width: 70%;
     }
 
- }
+    element.style {
+        margin-bottom: 1rem;
+
+    }
+
+    element.style {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    element.style {
+        margin-bottom: 1rem;
+    }
+
+    h2{
+        font-size: 2,5rem;
+    }
+
+    .why-us{
+        background-color: black;
+        width: 100%;
+        height: 100%;
+        margin-bottom: 0;
+        padding-top: 1rem;
+    }
+
+    .steps{
+        margin: 0 auto;
+    }
+
+    element.style {
+        margin-bottom: 1rem;
+    }
+
+    .text-center {
+        text-align: center;
+        padding: 0 30px;
+        padding-bottom: 20px;
+    }
+
+
+    
+}
 
     
  
